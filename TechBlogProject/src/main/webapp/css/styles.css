@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+.primary-back{
+	background: #2196f3!important;
+}
+.banner-back{
+ 	clip-path: polygon(30% 0%, 70% 0%, 100% 0, 100% 92%, 70% 100%, 33% 93%, 0 100%, 0 0);
+ 	}
+.logo{
+	font-weight: 20%;
+}
